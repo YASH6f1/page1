@@ -1,0 +1,213 @@
+body{
+    background-color:#e4fbff;
+  
+    margin: 0;
+    text-align: center;
+    
+   
+}
+
+.top{
+    background-color: #95e1d3;
+    margin: 0%;
+    
+}
+
+h1{
+    margin: 0px;
+    
+    padding-top: 121px;
+    
+    font-family: 'Pacifico', cursive;
+    font-size: 6rem;
+    color: #e3fdfd;
+
+}
+ 
+h2{
+    
+    
+    font-family: 'Pacifico', cursive;
+    font-size: 2rem;
+    color: #11999e;
+    font-weight: normal;
+    padding: 10px;
+}
+
+
+h3{
+    color:#11999e;
+}
+
+p{   font-family: 'Bree Serif', serif;
+    color: #393e46;
+    line-height: 2;
+    
+}
+
+hr{  
+    border-style: none;
+    width: 8%;
+    border-top-style: dotted;
+    border-color: slategrey;
+    border-width: 5px;
+    margin: 100px auto ;
+
+}
+
+
+/************** selectors******************/
+
+.top{
+    padding-bottom: 30px;
+}
+
+
+
+.profile{
+margin-top: 100px;
+
+
+}
+.mid{
+    border: 100px 0;
+}
+
+.bottom-container{
+    background-color: #95e1d3;
+    padding: 50px 0 20px;
+    margin: 0;
+}
+
+
+.top_cloud{
+    position: absolute;
+    right: 270px;
+    top: 50px;
+}
+
+
+.bottom_cloud{
+    position: absolute;
+    top: 204px;
+    left: 230px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 0 auto;
+    text-align: left;
+    line-height: 2;
+    padding-top: 25px;
+/********** padding of second skill is in the html file********/
+    
+    
+}
+
+.skill-main{
+    width: 17%;
+    margin-top: 40px;
+    
+}
+
+.hello{
+    width: 15%;
+    margin-top: 40px;
+}
+
+.primary{
+    float: left;
+    width: 15%;
+    margin-top: 75px;
+    margin-right: 30px;
+
+}
+
+.secondry{
+    float: right;
+    margin-top: 20px;
+    width: 15%;
+    margin-left: 30px;
+
+}
+
+ 
+
+
+.intro{
+    margin: auto;
+    width: 30%;
+    font-size:larger;
+}
+
+.contact-text{
+
+    margin: 40px 0;
+}
+
+.contact-me{
+    width: 40%;
+    margin: 0 auto;
+    padding-bottom: 60px;
+}
+
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #000e54);
+    background-image: -moz-linear-gradient(top, #3498db, #000e54);
+    background-image: -ms-linear-gradient(top, #3498db, #000e54);
+    background-image: -o-linear-gradient(top, #3498db, #000e54);
+    background-image: linear-gradient(to bottom, #3498db, #000e54);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #3498db);
+    background-image: -moz-linear-gradient(top, #30e3cb, #3498db);
+    background-image: -ms-linear-gradient(top, #30e3cb, #3498db);
+    background-image: -o-linear-gradient(top, #30e3cb, #3498db);
+    background-image: linear-gradient(to bottom, #30e3cb, #3498db);
+    text-decoration: none;
+  }
+  
+
+  .insta{
+      width: 30px;
+      margin: auto  30px;
+  }
+  
+  .facebook{
+    width: 30px;
+    margin: auto  30px;
+  }
+
+  .gmail{
+    width: 30px;
+    margin: auto  30px;
+  }
+
+  .valley{
+      height: 385px;
+  }
+
+  .greeting:hover{
+    font-family: 'Pacifico', cursive;
+    color: #aa2ee6;
+  }
+
+  .my-skills :hover{
+    font-family: 'Pacifico', cursive;
+    color: #aa2ee6;
+  }
+.touch:hover{
+    font-family: 'Pacifico', cursive;
+    color: #aa2ee6;
+}
